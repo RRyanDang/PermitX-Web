@@ -1,4 +1,25 @@
 @import "tailwindcss";
+
+/* .filepond--list{
+  display: none
+} */
+
+.color_test{
+  background-color: #cacaca;
+}
+
+hr{
+  display: block;
+  height: 50px;
+  border: 0;
+  border-left: 2px solid #f63535;
+  margin-left: 15px;
+}
+
+/* canvas.react-pdf__Page__canvas{
+    margin-bottom:50px;
+} */
+
 /*
 :root {
   --background: #ffffff;
